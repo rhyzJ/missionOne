@@ -4,20 +4,28 @@
     <img src="https://www.turners.co.nz/assets/images/logo/square_logo_car.png" alt="Mission 1 Logo" style="border-radius: 50%;" />
   </a>
 
-<h3 align="center" style="color: #ff69b4;">🌸 Rhya's Mission 1 🌸</h3><br />
+<h3 align="center">🌸 Rhya's Mission 1 🌸</h3><br />
 
 ##
 
 <p align="center">
     This is my Mission 1 for show and tell! <br /><br /> 
     It is a prototype of an Azure AI Car Type Identifying Software.  
-    Calculates a false premium (just for show) and can identify hatchbacks, sedans, SUVs, trucks, and sports cars with decent accuracy.
+    Calculates a false premium (just for show) and can identify:
+
+  - **Hatchbacks** 🚙  
+  - **Sedans** 🚗  
+  - **SUVs** 🚙  
+  - **Trucks** 🚚  
+  - **Sports Cars** 🏎️
+
+with decent accuracy.
     <br /><br />
-    <a href="https://github.com/rhyzJ/missionOne" style="color: #ff69b4;"><strong>✨ Squiz at My Cool Code » ✨</strong></a>
+    <a href="https://github.com/rhyzJ/missionOne"><strong>✨ Squiz at My Cool Code » ✨</strong></a>
 </p>
 </div>
 
-## 🌟 Installation 🌟
+## 👩🏼‍💻 Installation 👩🏼‍💻
 
 1. **Clone the repository:**
 
