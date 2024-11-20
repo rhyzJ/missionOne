@@ -1,63 +1,70 @@
 <br />
 <div align="center">
   <a href="https://github.com/rhyzJ/missionOne">
+    <img src="https://via.placeholder.com/150x150?text=%E2%9C%A8+Mission+1+%E2%9C%A8" alt="Mission 1 Logo" style="border-radius: 50%;" />
   </a>
 
-<h3 align="center">Rhyas Mission 1</h3><br />
+<h3 align="center" style="color: #ff69b4;">🌸 Rhya's Mission 1 🌸</h3><br />
 
 ##
 
-  <p align="center">
-    This is my Mission 1 for show and tell! <br /><br /> It is a prototype of an Azure AI Car Type identifying Software. Calculates a false premium (just for show) and can identify hatchbacks, sedans, SUVs, Trucks, and sports cars with decent accuracy. 
-   
-     <a href=""https://github.com/rhyzJ/missionOne""><strong>Squiz at My Cool Code »</strong></a>
-
-
-  </p>
+<p align="center">
+    This is my Mission 1 for show and tell! <br /><br /> 
+    It is a prototype of an Azure AI Car Type Identifying Software.  
+    Calculates a false premium (just for show) and can identify hatchbacks, sedans, SUVs, trucks, and sports cars with decent accuracy.
+    <br /><br />
+    <a href="https://github.com/rhyzJ/missionOne" style="color: #ff69b4;"><strong>✨ Squiz at My Cool Code » ✨</strong></a>
+</p>
 </div>
 
-## Installation
+## 🌟 Installation 🌟
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/rhyzJ/missionOne.git
+1. **Clone the repository:**
 
-2. Install dependencies:  
-   ```bash
-   npm i
+    ```bash
+    git clone https://github.com/rhyzJ/missionOne.git
+    ```
 
-2. Run Program:  
-   ```bash
-   npm run dev
+2. **Install dependencies:**
 
+    ```bash
+    npm i
+    ```
 
+3. **Run the program:**
 
-### Built With
+    ```bash
+    npm run dev
+    ```
 
-* React.js & vite
-* NODE.JS
-* Axios
-* Multer
-* Azure Vision API
+---
 
+## 🛠 Built With 🛠
 
+- React.js & Vite  
+- Node.js  
+- Axios  
+- Multer  
+- Azure Vision API  
 
+---
 
-<!-- CONTACT -->
-## Contact
+## 💌 Contact 💌
 
-Rhya Johns -  - rhyaJ@missionreadyhq.com
+Rhya Johns - rhyaJ@missionreadyhq.com  
 
-Project Link: [https://github.com/rhyzJ/Mission0]("https://github.com/rhyzJ/Mission0")
+Project Link: [Mission One](https://github.com/rhyzJ/missionOne)
 
+---
 
+## 🌸 Acknowledgments 🌸
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+- Myself 🙋‍♀️ 
+- Stack Overflow
+- YouTube 
+- Possible help from **caffeine**
 
-* [myself]()
-* [stack overflow]()
-* [YOUTUBE]()
-* [posssible help from caffeine]()
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to Top](#readme-top)
+
