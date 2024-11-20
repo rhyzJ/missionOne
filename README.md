@@ -3,15 +3,14 @@
   <a href="https://github.com/rhyzJ/missionOne">
     <img src="https://www.turners.co.nz/assets/images/logo/square_logo_car.png" alt="Mission 1 Logo" style="border-radius: 50%;" />
   </a>
-
 <h3 align="center">🌸 Rhya's Mission 1 🌸</h3><br />
 
 ##
 
 <p align="center">
     This is my Mission 1 for show and tell! <br /><br /> 
-    It is a prototype of an Azure AI Car Type Identifying Software.  
-    Calculates a false premium (just for show) and can identify:
+    <em>It is a prototype of an Azure AI Car Type Identifying Software.  
+    Calculates a false premium (just for show) and can identify:</em>
 
 **Hatchbacks** 🚙  
 **Sedans** 🚗  
@@ -19,7 +18,7 @@
 **Trucks** 🚚  
 **Sports Cars** 🏎️
 
-with decent accuracy.
+ <em>with decent accuracy.</em>
     <br /><br />
     <a href="https://github.com/rhyzJ/missionOne"><strong>✨ Squiz at My Cool Code » ✨</strong></a>
 </p>
