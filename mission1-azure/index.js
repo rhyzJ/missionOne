@@ -1,11 +1,11 @@
 //environment variablles
 require("dotenv").config();
 
-const express = require("express");
+const express = require("express"); // provides routing and middleware support
 const multer = require("multer"); //middleware that handles the form data sent form front end/temp storage of uploads (uploads/ folder)
-const axios = require("axios");
-const fs = require("fs/promises");
-const cors = require("cors");
+const axios = require("axios"); //used for making http requests ti external APIs or services.
+const fs = require("fs/promises"); //allows reading,writing & manipulation of files on server without blocking code
+const cors = require("cors");// allows server to accept requests from diff origins
 
 const app = express();
 const port = 4000;
@@ -45,6 +45,8 @@ app.post("/upload", upload.single("uploadFile"), async (req, res) => {
     //extract top prediction
     const prediction =
       response.data.predictions[0]?.tagName || "Unknown Car Type"; // default to unknown if no prediction
+
+    await fs.unlink(imagePath); // deletes uploaded file after processing (cleaning up uploads file)
 
     //return result to front end
     res.json({ message: `${prediction}` });
