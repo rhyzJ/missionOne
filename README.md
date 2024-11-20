@@ -13,11 +13,11 @@
     It is a prototype of an Azure AI Car Type Identifying Software.  
     Calculates a false premium (just for show) and can identify:
 
-  - **Hatchbacks** 🚙  
-  - **Sedans** 🚗  
-  - **SUVs** 🚙  
-  - **Trucks** 🚚  
-  - **Sports Cars** 🏎️
+**Hatchbacks** 🚙  
+**Sedans** 🚗  
+**SUVs** 🚙  
+**Trucks** 🚚  
+**Sports Cars** 🏎️
 
 with decent accuracy.
     <br /><br />
