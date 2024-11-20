@@ -10,7 +10,7 @@
   <p align="center">
     This is my Mission 1 for show and tell! <br /><br /> It is a prototype of an Azure AI Car Type identifying Software. Calculates a false premium (just for show) and can identify hatchbacks, sedans, SUVs, Trucks, and sports cars with decent accuracy. 
    
-   <a href=""https://github.com/rhyzJ/missionOne""><strong>Squiz at My Cool Code »</strong></a>
+     <a href=""https://github.com/rhyzJ/missionOne""><strong>Squiz at My Cool Code »</strong></a>
 
 
   </p>
